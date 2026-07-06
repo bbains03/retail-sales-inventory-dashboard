@@ -1,5 +1,8 @@
 # retail-sales-inventory-dashboard
-Excel dashboard analyzing retail sales, warehouse activity, supplier performance, and inventory transfer efficiency.
+Built an Excel dashboard analyzing retail sales, warehouse activity, supplier performance, and inventory transfer efficiency.
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
 
 Tools Used
 
